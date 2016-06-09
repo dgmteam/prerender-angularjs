@@ -3,7 +3,7 @@ process.env.PORT = 9999;
 var prerender = require('./lib');
 var server = prerender({
     //workers: process.env.PRERENDER_NUM_WORKERS,
-	workers: 10,
+	workers: 6,
     iterations: process.env.PRERENDER_NUM_ITERATIONS
 });
 //server.createPage);
