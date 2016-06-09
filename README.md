@@ -1,5 +1,5 @@
 # prerender-angularjs
-Prerender settings for angularjs projects
+Prerender settings for angularjs projects.
 Sample nginx configuration:
 
 ```
